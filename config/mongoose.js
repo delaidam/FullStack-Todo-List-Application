@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 //Require the Environment File for getting the Environment Variables
 const env = require("./environment");
-
+//samo testiram da nešto provjerim pa nemam pametnijeg posla nego da dodajem komentar
 let db;
 
 //If the Environment is Development
